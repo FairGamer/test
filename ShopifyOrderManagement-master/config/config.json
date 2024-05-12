@@ -1,0 +1,38 @@
+{
+    "development": {
+        "username": "sql5705823",
+        "password": "Ul8A2nW9IW",
+        "database": "sql5705823",
+        "host": "sql5.freemysqlhosting.net",
+        "dialect": "mysql",
+        "operatorsAliases": false,
+        "logging": false
+    },
+    "t-development": {
+        "username": "root",
+        "password": "root@123",
+        "database": "bazinga",
+        "host": "127.0.0.1",
+        "dialect": "mysql",
+        "operatorsAliases": false,
+        "logging": false
+    },
+    "test": {
+        "username": "sql5705823",
+        "password": "Ul8A2nW9IW",
+        "database": "sql5705823",
+        "host": "sql5.freemysqlhosting.net",
+        "dialect": "mysql",
+        "operatorsAliases": false,
+        "logging": false
+    },
+    "production": {
+        "username": "sql5705823",
+        "password": "Ul8A2nW9IW",
+        "database": "sql5705823",
+        "host": "sql5.freemysqlhosting.net",
+        "dialect": "mysql",
+        "operatorsAliases": false,
+        "logging": false
+    }
+}
